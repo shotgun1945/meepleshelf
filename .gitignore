@@ -1,0 +1,24 @@
+# 의존성
+node_modules/
+
+# 환경변수
+.env
+
+# 빌드 결과
+dist/
+
+# 로그
+logs/
+
+# 에디터
+.DS_Store
+
+# 에이전트 설정 — 공개 저장소라 개인 정보와 로컬 경로가 든 파일은 올리지 않는다
+CLAUDE.md
+.mcp.json
+.claude/
+.cursor/
+.agents/
+.vscode/
+.cursorignore
+.claudeignore
